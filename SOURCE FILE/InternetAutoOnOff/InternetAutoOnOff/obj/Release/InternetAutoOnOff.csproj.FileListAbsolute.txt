@@ -1,0 +1,9 @@
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\bin\Release\InternetAutoOnOff.exe.config
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\bin\Release\InternetAutoOnOff.exe
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\bin\Release\InternetAutoOnOff.pdb
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Release\InternetAutoOnOff.frmMain.resources
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Release\InternetAutoOnOff.Properties.Resources.resources
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Release\InternetAutoOnOff.csproj.GenerateResource.cache
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Release\InternetAutoOnOff.csproj.CoreCompileInputs.cache
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Release\InternetAutoOnOff.exe
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Release\InternetAutoOnOff.pdb

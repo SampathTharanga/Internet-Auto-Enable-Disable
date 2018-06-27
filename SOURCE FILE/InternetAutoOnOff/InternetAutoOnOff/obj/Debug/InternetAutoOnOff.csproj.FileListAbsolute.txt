@@ -1,0 +1,10 @@
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\bin\Debug\InternetAutoOnOff.exe.config
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\bin\Debug\InternetAutoOnOff.exe
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\bin\Debug\InternetAutoOnOff.pdb
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Debug\InternetAutoOnOff.frmMain.resources
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Debug\InternetAutoOnOff.Properties.Resources.resources
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Debug\InternetAutoOnOff.csproj.GenerateResource.cache
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Debug\InternetAutoOnOff.csproj.CoreCompileInputs.cache
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Debug\InternetAutoOnOff.exe
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Debug\InternetAutoOnOff.pdb
+C:\Users\RED\Desktop\C# - Internet enable and disable\InternetAutoOnOff\InternetAutoOnOff\obj\Debug\InternetAutoOnOff.csprojResolveAssemblyReference.cache
